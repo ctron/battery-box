@@ -1,6 +1,6 @@
 # Battery Box
 
-A box for batteries. Originally designed for AAA batteries.
+A box for batteries. Originally designed for AAA batteries. Also on [Thingiverse](https://www.thingiverse.com/thing:5610861).
 
 ![](images/preview_box.png)
 ![](images/preview_cover.png)
